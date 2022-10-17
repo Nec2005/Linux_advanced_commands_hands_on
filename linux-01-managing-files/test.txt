@@ -1,0 +1,7 @@
+total 2564
+drwxrwxrwx 1 nec nec     512 Oct  9 18:37 .
+drwxrwxrwx 1 nec nec     512 Oct  9 14:22 ..
+-rwxrwxrwx 1 nec nec 2614759 Oct  2  2021 Linux_Plus_1_AWS&DevOps-09.pdf
+-rwxrwxrwx 1 nec nec    7278 Oct  1  2021 README.md
+-rwxrwxrwx 1 nec nec      29 Jul 29 08:54 summer.txt
+-rwxrwxrwx 1 nec nec       0 Oct  9 18:37 test.txt
