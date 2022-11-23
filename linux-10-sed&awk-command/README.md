@@ -302,3 +302,7 @@ This is part 1 of line 3 : This is part 2 of line 3
 '/^[ \t]*$/ {next;} {print}'
 '!/^[ \t]*$/'
 ```
+
+```
+image.png
+```
