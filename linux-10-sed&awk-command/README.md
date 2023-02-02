@@ -276,6 +276,22 @@ awk '{ if($7 == "3") print $0;}' awk.txt
 ```bash
 This is part 1 of line 3 : This is part 2 of line 3
 ```
+
+**Example**
+```bash
+  a=`cat sed-test.json | grep connect | awk '{print $3}'`
+  echo $a
+  b="Ptrhf=23fsd/der+t/ghyrson=="
+  echo $b
+  b='"Ptrhf=23fsd/der+t/ghyrson=="'
+  echo $b
+  
+  sed -e "s|$a|$b|" test.json
+
+sed -i.backup -e "s|$a|$b|" test.json
+
+```
+
 ### Remove spaces from file
 
 ## sed
