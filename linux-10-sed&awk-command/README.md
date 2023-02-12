@@ -291,6 +291,14 @@ This is part 1 of line 3 : This is part 2 of line 3
 sed -i.backup -e "s|$a|$b|" test.json
 
 ```
+```
+cat test
+[podman run command website fhsod sdoi --env askdj image:tag djhfo skgjhoh]
+
+$ cat test | sed 's/\]//;s/.//' 
+podman run command website fhsod sdoi --env askdj image:tag djhfo skgjhoh
+
+
 
 ### Remove spaces from file
 
