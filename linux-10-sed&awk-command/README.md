@@ -301,7 +301,13 @@ podman run command website fhsod sdoi --env askdj image:tag djhfo skgjhoh
 
 
 ### Remove spaces from file
+```
+remove spaces begining and end of line
+sed 's/^[ \t]*//' test1
 
+add " begining and end of line
+sed -e 's/^/"/;s/$/"/' b
+```
 ## sed
 
 ```
